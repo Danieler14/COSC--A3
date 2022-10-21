@@ -54,6 +54,16 @@ h3 {
   color:#1F2A28;
   font-size: 35px
 }
+h4 {
+  font-family: 'Bitter', serif;
+  color: #666362;
+  font-size: 32px;
+}
+h5 {
+  font-family: 'Bitter', serif;
+  color:#6D7B8D;
+  font-size: 28px;
+}
 hr {
        position: relative;
        top: 0px;

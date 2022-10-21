@@ -38,22 +38,32 @@ nav a:hover {
   color: #F1D60D;
   text-decoration: underline;}
 
-h1 {
-  font-family: 'Bitter', serif;
-  color: #d9b99b;
-  text-align: center;
-  font-size: 100px
-}
-h2 {
-  color: #97816c;
-  text-align: left;
-  font-size: 35px
-}
-h3 {
-  font-family: 'Bitter', serif;
-  color:#1F2A28;
-  font-size: 35px
-}
+  h1 {
+    font-family: 'Bitter', serif;
+    color: #49564c;
+    text-align: center;
+    font-size: 100px
+  }
+  h2 {
+    color: #49564c;
+    text-align: left;
+    font-size: 35px
+  }
+  h3 {
+    font-family: 'Bitter', serif;
+    color:#1F2A28;
+    font-size: 35px
+  }
+  h4 {
+    font-family: 'Bitter', serif;
+    color: #666362;
+    font-size: 32px;
+  }
+  h5 {
+    font-family: 'Bitter', serif;
+    color:#6D7B8D;
+    font-size: 28px;
+  }
 hr {
        position: relative;
        top: 0px;
